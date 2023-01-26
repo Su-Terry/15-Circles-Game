@@ -1,0 +1,5 @@
+1. Make a stronger AI
+
+2. Make it a web version
+
+3. Store game statistics
